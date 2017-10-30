@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					276BAA501FA6A6FC0076F8FA = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 898KUQX63L;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 898KUQX63L;
 				INFOPLIST_FILE = "RGB Slider/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.carolgreenberg.RGB-Slider";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 898KUQX63L;
 				INFOPLIST_FILE = "RGB Slider/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.carolgreenberg.RGB-Slider";
