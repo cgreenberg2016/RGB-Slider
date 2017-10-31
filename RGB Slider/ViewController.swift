@@ -35,6 +35,8 @@ class ViewController: UIViewController {
         let green = CGFloat(greenSlider.value)
         let blue = CGFloat(bluSlider.value)
         
+        
+        
         colorSquare.backgroundColor = UIColor(red: red, green: green, blue: blue, alpha: 1)
         
         let defaults = UserDefaults.standard
